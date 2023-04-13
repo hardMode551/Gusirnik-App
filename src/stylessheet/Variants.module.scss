@@ -1,8 +1,18 @@
 section {
+  .title {
+    height: 100vh;
+
+    margin-bottom: 400px;
+  }
+
   .gusBlock {
     height: 100vh;
 
     margin-bottom: 400px;
+
+    img {
+      height: 100vh;
+    }
   }
 
   img {
